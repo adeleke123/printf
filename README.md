@@ -21,7 +21,7 @@ Write your own `printf` function.
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png)
 
-*^ In this picture, [Kris](https://alx-intranet.hbtn.io/rltoken/pSPZEmqi5O8ZoeLM5-65WA "Kris"), and [Jul](https://alx-intranet.hbtn.io/rltoken/X_vDffLlUpbtqnubfnQx8Q "Jul")*
+* In this picture, [Kris](https://alx-intranet.hbtn.io/rltoken/pSPZEmqi5O8ZoeLM5-65WA "Kris"), and [Jul](https://alx-intranet.hbtn.io/rltoken/X_vDffLlUpbtqnubfnQx8Q "Jul")*
 
 Resources
 ---------
@@ -203,7 +203,7 @@ Handle the following conversion specifiers:
 
 -   GitHub repository: `printf`
 
-  ### Just because it's in print doesn't mean it's the gospel
+  ### * Just because it's in print doesn't mean it's the gospel
 
 #### mandatory
 
@@ -262,7 +262,7 @@ Handle the following conversion specifiers:
 
 -  GitHub repository: `printf`
     
-### \4. Nothing in fine print is ever good news
+### 4\. Nothing in fine print is ever good news
 ### advanced
 Score: 99.57% (Checks completed: 100.0%)
 Use a local buffer of 1024 chars in order to call `write` as little as possible.
@@ -384,6 +384,7 @@ Score: 65.46% (Checks completed: 100.0%)
 Handle the following custom conversion specifier:
 
 -  `r` : prints the reversed string
+
 **Repo:**
 
 -  GitHub repository: `printf`
@@ -394,12 +395,13 @@ Score: 65.46% (Checks completed: 100.0%)
 Handle the following custom conversion specifier:
 
 -  `R`: prints the rot13'ed string
+
 **Repo:**
 
 -  GitHub repository: `printf`
     
 15. *
-#advanced
+#### advanced
 Score: 68.29% (Checks completed: 100.0%)
 All the above options work well together.
 
