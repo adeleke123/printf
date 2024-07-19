@@ -9,10 +9,12 @@ Concepts
 
 *For this project, students are expected to look at these concepts:*
 
--   [Group Projects](https://alx-intranet.hbtn.io/concepts/111)
--   [Pair Programming - How To](https://alx-intranet.hbtn.io/concepts/121)
--   [Flowcharts](https://alx-intranet.hbtn.io/concepts/130)
--   [Technical Writing](https://alx-intranet.hbtn.io/concepts/225)
+- [Printf function brief - What to know to create your own Printf function](https://intranet.alxswe.com/concepts/100034)
+- [All about Team Projects + Pairings + FAQ (A must read)](https://intranet.alxswe.com/concepts/100037)
+- [Group Projects](https://intranet.alxswe.com/concepts/111)
+- [Flowcharts](https://intranet.alxswe.com/concepts/130)
+- [Pair Programming - How To](https://intranet.alxswe.com/concepts/121)
+- [Technical Writing](https://intranet.alxswe.com/concepts/225)
 
 Background Context
 ------------------
@@ -371,16 +373,15 @@ Handle the `0` flag character for non-custom conversion specifiers.
     
 ### 12\. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection
 #### advanced
-Score: 65.41% (Checks completed: 100.0%)
+
 Handle the - flag character for non-custom conversion specifiers.
 
 **Repo:**
 
 -  GitHub repository: `printf`
     
-### 13\. Print is the sharpest and the strongest weapon of our party
-#### advanced
-Score: 65.46% (Checks completed: 100.0%)
+### 13\. Print is the sharpest and the strongest weapon of our party    #advanced
+
 Handle the following custom conversion specifier:
 
 -  `r` : prints the reversed string
@@ -400,9 +401,8 @@ Handle the following custom conversion specifier:
 
 -  GitHub repository: `printf`
     
-15. *
-#### advanced
-Score: 68.29% (Checks completed: 100.0%)
+### 15. #advanced
+
 All the above options work well together.
 
 Well done on completing this project! Let the world hear about this milestone achieved.
